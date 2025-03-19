@@ -63,3 +63,11 @@ public class GuessWhat {
         scanner.close();
     }
 }
+//this is a simple game where the user has to guess the lucky number between 1-10
+//if the user guesses the number correctly, he wins the game
+//if the user guesses the number incorrectly, he has 2 more chances to guess the number
+//if the user fails to guess the number in 3 chances, he loses the game
+//the user can play the game as many times as he wants
+//the user can exit the game by pressing 0
+//the user can play the game again by pressing 1
+//the user has to enter a valid number, if he enters any other character, he will be prompted to enter a valid number
